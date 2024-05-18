@@ -1,7 +1,4 @@
 
-
-
-
 function colocarenpantalla(datos) {
     console.log(datos)
 

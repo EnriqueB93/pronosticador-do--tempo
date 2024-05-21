@@ -3,7 +3,7 @@
 <br>
 <h2> >Este é um projeto aprendido no Devclub</h2>
 
-<h2>VTecnologia usada:</h2>
+<h2>Tecnologia usada:</h2>
 <br>
 <ul>
   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
